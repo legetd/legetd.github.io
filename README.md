@@ -1,3 +1,13 @@
-WELL COME
+
+## about me
+### Biography:
+
+Name is Legesse Taddese I am a cyber security Anlysts and soon to be web developer, and also musician.growing up in small tomn the love for music begun in church like many other musicians I had my firt albem in 2016 on my way to the sec soon... "https://www.youtube.com/@legessetaddeseofficial4741"
+and music introduce me to technology,through that i discouver i have passion for creating innovative solutions to complex problems. My journey in the field of technology began sense I exposed to internet through my music where I discovered my love for network programer, coding and building software applications. Since then, I have dedicated myself to continuous learning and honing my skills in various programming languages and technologies.
+Throughout my career, I have had the opportunity to work on diverse projects ranging from Cisco,fortunate  firwall microsoft cloud and so on ...to machine learning applications. I thrive in dynamic environments where I can collaborate with talented individuals to deliver high-quality software products that make a positive impact.
+In addition to my technical expertise, I am a firm believer in the power of teamwork and effective communication. I enjoy working closely with cross-functional teams to brainstorm ideas, solve problems, and achieve shared goals. I am always eager to share my knowledge and learn from others to foster a culture of continuous improvement.
+
+### career Goals
+My career goal is to continue growing as a cyber scurity and Web devlopmnet, contributing to cutting-edge projects that push the boundaries of technology. I aspire to take on roles that allow me to be expert technical initiatives, and drive innovation within organizations. Ultimately, I aim to make a meaningful difference in the world through my work and inspire others to pursue their passions in technology.
 
 
